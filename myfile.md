@@ -2,7 +2,7 @@
 
 **This is Markdown**
 
-*Top 4 Movies*
+**Top 4 Movies**
 - Dead Poets Society
 - Clockwork Orange
 - Sing Street
